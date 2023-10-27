@@ -23,6 +23,7 @@ public class WhenWorkingWithStrings {
 
         // Replace
         String ReplaceName = name.replace("selvaraj","abraham");
+        System.out.println(ReplaceName);
 
     }
 }
