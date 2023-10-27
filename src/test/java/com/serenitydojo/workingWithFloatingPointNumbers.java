@@ -3,7 +3,7 @@ package com.serenitydojo;
 import org.junit.Test;
 
 
-public class WorkingWithFloatingPointNumbers {
+public class workingWithFloatingPointNumbers {
     @Test
     public void celciusToFarenheit(){
         double celcius=50.00;
